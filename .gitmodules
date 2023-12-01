@@ -5,3 +5,11 @@
 [submodule "pmartR"]
 	path = pmartR
 	url = https://github.com/pmartr/pmartr
+[submodule "pmartRdata"]
+	path = pmartRdata
+	url = https://github.com/pmartR/pmartRdata
+	registered = false
+[submodule "trelliscopejs"]
+	path = trelliscopejs
+	url = https://github.com/hafen/trelliscopejs
+	registered = false

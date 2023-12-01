@@ -1,0 +1,14 @@
+[
+  {
+    "package": "pmartRdata",
+    "url": "https://github.com/pmartR/pmartRdata",
+    "via": ["pmartR"],
+    "from": "pmartR"
+  },
+  {
+    "package": "trelliscopejs",
+    "url": "https://github.com/hafen/trelliscopejs",
+    "via": ["pmartR"],
+    "from": "pmartR"
+  }
+]
